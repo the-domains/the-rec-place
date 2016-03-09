@@ -1,0 +1,28 @@
+name: The Rec Place
+favicon: null
+layout_spectrum: 0.04304405581206083
+typography_spectrum: 0.39175683772191405
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.5355895210523158
+  lightness: 0.8264521984383464
+  saturation: 0.8068383301142603
+  rhythmicContrast: 0.320453432854265
+purpose: []
